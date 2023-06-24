@@ -1,2 +1,2 @@
-# lab_assignment_5
-lab 5
+# lab_assignment_6
+lab 6
